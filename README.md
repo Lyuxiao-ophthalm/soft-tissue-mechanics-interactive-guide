@@ -1,6 +1,6 @@
 # 软组织力学测量交互指南 · Soft-Tissue Mechanics Interactive Guide
 
-研究生课程「现代药剂学」文献精读汇报的配套材料：汇报 PPT（PDF）、原文献，以及一个可交互的网页演示，用来把综述中的力学测量方法讲清楚、算得出、查得到出处。
+同济大学医学博士研究生课程「现代药剂学」文献精读汇报的配套材料：汇报 PPT（PDF）、原文献，以及一个可交互的网页演示，用来把综述中的力学测量方法讲清楚。
 
 ## 精读文献
 Muñoz Villaescusa C, van der Ven D, Quetzeri-Santiago MA, Fernandez Rivas D. A strategic guide of techniques for biomedical and tissue engineering applications to measure mechanical properties of soft matter, eye and skin. *Advanced Drug Delivery Reviews* 2026;231:115792. DOI: [10.1016/j.addr.2026.115792](https://doi.org/10.1016/j.addr.2026.115792)
